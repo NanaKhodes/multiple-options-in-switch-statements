@@ -1,0 +1,1 @@
+# multiple-options-in-switch-statements
